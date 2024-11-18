@@ -38,6 +38,7 @@ Publishing your app on the Google Play Store involves several key steps:
    - Use the "Publishing overview" to review any pending tasks or issues.
    - Once everything is set, click "Publish" to submit your app for review.
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME") 
+[![Set Up Mobile App in google Play Store](![image](https://github.com/user-attachments/assets/cec6751d-95e1-4d3d-abf1-f03d0b9407fc)
+)](https://youtu.be/VxUuW4f89Wk "Set Up Mobile App in google Play Store") 
 
  
