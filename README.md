@@ -38,6 +38,6 @@ Publishing your app on the Google Play Store involves several key steps:
    - Use the "Publishing overview" to review any pending tasks or issues.
    - Once everything is set, click "Publish" to submit your app for review.
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME") 
 
  
