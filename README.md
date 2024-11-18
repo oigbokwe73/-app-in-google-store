@@ -38,8 +38,7 @@ Publishing your app on the Google Play Store involves several key steps:
    - Use the "Publishing overview" to review any pending tasks or issues.
    - Once everything is set, click "Publish" to submit your app for review.
 
-After submission, Google will review your app to ensure it meets all guidelines. The review process can take several days. Once approved, your app will be available on the Google Play Store.
+[![Upload Mobile App to Google Play Store](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME"](https://youtu.be/VxUuW4f89Wk))
 
-For a visual walkthrough, you might find this tutorial helpful:
 
  
